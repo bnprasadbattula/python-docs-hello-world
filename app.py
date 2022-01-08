@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "This is Development phase2!"
+    return "This is phase2!"
